@@ -1,6 +1,6 @@
 import "./profile-update.css"
 
-const ProfileUpdate = () => {
+const ProfileUpdatePage = () => {
     return ( 
         <div className="">
             Profile Update
@@ -8,4 +8,4 @@ const ProfileUpdate = () => {
      );
 }
  
-export default ProfileUpdate;
+export default ProfileUpdatePage;
